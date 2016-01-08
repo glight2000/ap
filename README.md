@@ -6,8 +6,6 @@ Make self defined shortcut command with "ap"
 
 (I was rushed to get these `ap` functions and also I'm a Go newbie, so this is a very very immature project.)
 
-
-
 `ap t [alias]` means locate to the directory with alias `"p12","js"`(It open another cmd window, and it's just a workarround)
 
 like:
