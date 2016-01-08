@@ -12,14 +12,14 @@ Make self defined shortcut command with "ap"
 
 like:
 ```
-`ap t p12 js` 
+ap t p12 js
 ```
 
 `ap [shortcut] [arguments...]` means excute the application which shortcut "open" is pointed to.
 
 like:
 ```
-`ap open main.go` 
+ap open main.go
 ```
 
 
