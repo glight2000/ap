@@ -8,9 +8,20 @@ Make self defined shortcut command with "ap"
 
 
 
-ap t [alias] eg:`ap t p12 js` means locate to the directory with alias `"p12","js"`(It open another cmd window, and it's just a workarround)
+`ap t [alias]` means locate to the directory with alias `"p12","js"`(It open another cmd window, and it's just a workarround)
 
-ap [shortcut] [arguments...]`ap open .` means excute the application which shortcut "open" is pointed to.
+like:
+```
+`ap t p12 js` 
+```
+
+`ap [shortcut] [arguments...]` means excute the application which shortcut "open" is pointed to.
+
+like:
+```
+`ap open main.go` 
+```
+
 
 ## Install
 go get github.com/glight2000/ap
