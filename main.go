@@ -1,9 +1,9 @@
 package main
 
 import (
-	"ap/action"
 	"fmt"
 	"github.com/codegangsta/cli"
+	"github.com/glight2000/ap/action"
 	"log"
 	"os"
 	"runtime"
